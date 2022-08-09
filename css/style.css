@@ -1,0 +1,180 @@
+*{
+    margin-top: 20px;
+}
+.col-lg-2{
+    font-weight: 600;
+    font-size: 25px;
+}
+.col-p{
+    margin-top: -2px;
+}
+.nav-item{
+    text-align: center;
+    padding: 0 20px 0 20px;
+}
+.nav{
+    width: 80%;
+    margin-left: 100px;
+    margin-top: -13px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+.btn-right{
+    width: 60%;
+    margin-left: 50%;
+    margin-top: -4px;
+}
+.carousel-item::before{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: black;
+    opacity: 0.7;
+}
+.carousel-caption{
+    margin-bottom: 120px;
+}
+.sec-1-p{
+    padding-top: 20px;
+}
+.mar-sec-2{
+    padding-top: 100px;
+    text-align: center;
+}
+.elplore{
+    position: absolute;
+    width: 500px;
+    height: 698px;
+}
+.mar-sec-4{
+    margin-top: 40px;
+    text-align: center;
+}
+.mar-sec-5{
+    margin-top: 100px;
+}
+.pad-sec-5{
+    padding: 130px 0 130px 60px;
+    background-color: rgba(244, 250, 253, 1);
+}
+.mar-sec-6{
+    margin-top: 100px;
+}
+.pad-sec-6-1{
+    background-color: rgba(40, 155, 222, 1);
+}
+.sec-but{
+    color: rgba(40, 155, 222, 1);
+}
+.mar-sec-6 .container{
+    background-color: #0d6dfdda;
+    border-radius: 10px;
+}
+.btn-light{
+    margin: 70px 0 70px 0;
+}
+.sec-6-pad{
+    color: white;
+    padding: 23px 0 0 60px;
+}
+.mar-sec-7{
+    margin-top: 100px;
+}
+.student-pic{
+    width: 270px;
+    height: 258px;
+}
+.sec-7-name{
+    margin: 20px 0 0 40px;
+}
+.sec-7-button .btn-primary{
+    margin: 20px 0 0 646px;
+}
+.pad-sec-8{
+    margin-top: 100px;
+    text-align: center;
+}
+.extra-sec-8{
+    color: red;
+    text-align: center;
+    border: 5px solid red;
+}
+.mar-sec-9{
+    margin-top: 100px;
+}
+.col-lg-12 h4 a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.sec-9-border{
+    /* border: 2px solid black; */
+    margin: 0 auto;
+}
+.sec-9-border:hover{
+    border: 2px solid blue;
+}
+.sec-9-center{
+    text-align: center;
+}
+.sec-9-collapse{
+    padding: 20px;
+}
+.sec-9-collapse-mar{
+    margin-top: 50px;
+}
+.sec-9-arrow-1{
+    margin: 0 auto;
+    padding-left: 297px;
+}
+.sec-9-arrow-2{
+    margin: 0 auto;
+    padding-left: 250px;
+}
+.sec-9-arrow-3{
+    margin: 0 auto;
+    padding-left: 284px;
+}
+.sec-9-arrow-4{
+    margin: 0 auto;
+    padding-left: 296px;
+}
+.mar-sec-10{
+    margin-top: 100px;
+}
+.pad-sec-10{
+   text-align: center; 
+}
+.sec-10-co{
+    text-align: center;
+    margin: 0 auto;
+}
+.sec-10-image{
+    margin: 0 auto;
+}
+.mar-footer{
+    margin-top: 100px;
+}
+.pad-footer{
+    margin-top: 145px;
+    text-align: center;
+}
+.pad-footer h1{
+    color: white;
+}
+.pad-footer p{
+    color: white;
+}
+footer{
+    background-color: rgba(22, 22, 22, 1);
+    height: 472px;
+}
+.image-footer{
+    margin: 5px;
+}
